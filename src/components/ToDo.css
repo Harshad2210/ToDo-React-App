@@ -1,0 +1,14 @@
+.list-todo{
+    text-align: center;
+    /* background-color: rgb(176, 223, 223); */
+    /* border: 2px solid gray;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center; */
+}
+
+.modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
